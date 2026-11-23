@@ -1,0 +1,11 @@
+Model Information:
+* title:	Art Gallery
+* source:	https://sketchfab.com/3d-models/art-gallery-fc4371132bfc4a2ba2ee944bbc2119d3
+* author:	R-LAB (https://sketchfab.com/rakshaan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Art Gallery" (https://sketchfab.com/3d-models/art-gallery-fc4371132bfc4a2ba2ee944bbc2119d3) by R-LAB (https://sketchfab.com/rakshaan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
